@@ -1,7 +1,8 @@
 # eCommerce Website 
 
 ## Description
-This is a fully function website for ecommerce with user authiontication
+This is a fully functional e-commerce website with user authentication. It allows users to search for products, view details of items they are interested in, and complete the checkout process.
+
 ## Features
 
 - List key features of your eCommerce website, such as:
