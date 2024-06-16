@@ -1,4 +1,4 @@
-# ECommerce Website 
+# ECommerce Website README.md
 
 ## Description
 This is a fully functional e-commerce website with user authentication. It allows users to search for products, view details of items they are interested in, and complete the checkout process. it has also been deployed on this and can be accessed on :http://rida.pythonanywhere.com/
@@ -15,8 +15,6 @@ This is a fully functional e-commerce website with user authentication. It allow
 #### Prerequisites:
 - Python 3.x installed on your system.
 - pip package manager installed.
-
-### E-Commerce Website README
 
 #### Features:
 - Search functionality to search for products.
